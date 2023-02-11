@@ -1,3 +1,5 @@
+#Reference https://realpython.com/python-rock-paper-scissors/
+#
 import paho.mqtt.client as mqtt
 
 ReceiveDataA = False
